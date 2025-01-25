@@ -1,6 +1,6 @@
 # Node.js REST API
 
-A simple REST API built with **Node.js** and **Express** to manage tasks.
+A simple REST API built with Node.js and Express to manage tasks.
 
 ## Features
 
